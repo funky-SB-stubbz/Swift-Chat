@@ -1,0 +1,7 @@
+mongoose
+MongoDB
+JWT
+axios
+websocket
+useContext
+useEffect
